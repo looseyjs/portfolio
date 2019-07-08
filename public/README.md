@@ -45,6 +45,17 @@ Credits:
 
 ## User Acceptance Test
 
+#### Feature 3:
+Number and name of feature: Add CDNs
+
+Estimate of time needed to complete: 10
+
+Start time: 11am
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
 #### Feature 2:
 Number and name of feature: Modify Contents
 
