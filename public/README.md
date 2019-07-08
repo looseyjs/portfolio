@@ -44,12 +44,25 @@ Credits:
 		Responsive Tools (github.com/ajlkn/responsive-tools)
 
 ## User Acceptance Test
+
+#### Feature 2:
+Number and name of feature: Modify Contents
+
+Estimate of time needed to complete: 60 mins
+
+Start time: 9:45am
+
+Finish time: 
+
+Actual time needed to complete: 60 mins
+
+#### Feature 1:
 Number and name of feature: SMACSS
 
 Estimate of time needed to complete: 60 mins
 
 Start time: 8:45am
 
-Finish time: _____
+Finish time: 9:45am
 
-Actual time needed to complete: _____
+Actual time needed to complete: 60 mins
