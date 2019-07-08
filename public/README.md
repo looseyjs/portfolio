@@ -52,9 +52,9 @@ Estimate of time needed to complete: 60 mins
 
 Start time: 9:45am
 
-Finish time: 
+Finish time: 10:30am
 
-Actual time needed to complete: 60 mins
+Actual time needed to complete: 45 mins
 
 #### Feature 1:
 Number and name of feature: SMACSS
