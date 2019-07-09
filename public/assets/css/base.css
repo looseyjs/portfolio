@@ -1,6 +1,7 @@
 @import url("font-awesome.min.css");
-/* @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600"); */
-@import url("https://fonts.googleapis.com/css?family=Happy+Monkey|Titan+One&display=swap");
+@import url("href=https://fonts.googleapis.com/css?family=Indie+Flower&display=swap");
+@import 'module.css';
+@import 'layout.css';
 
 /*
 	Prologue by HTML5 UP
@@ -24,7 +25,8 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;}
+	vertical-align: baseline;
+}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -32,19 +34,6 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
-}
-
-ol, ul {
-	list-style: none;
-}
-
-blockquote, q {
-	quotes: none;
-}
-
-blockquote:before, blockquote:after, q:before, q:after {
-  content: '';
-  content: none;
 }
 
 table {
@@ -61,33 +50,19 @@ mark {
 	color: inherit;
 }
 
-input::-moz-focus-inner {
-	border: 0;
-	padding: 0;
-}
-
-input, select, textarea {
-	-moz-appearance: none;
-	-webkit-appearance: none;
-	-ms-appearance: none;
-	appearance: none;
-}
-
-/* Basic */
-
 html {
-  box-sizing: border-box;
+	box-sizing: border-box;
 }
 
 *, *:before, *:after {
-  box-sizing: inherit;
+	box-sizing: inherit;
 }
 
 body {
-  background: #fff;
-  font-family: 'Source Sans Pro', sans-serif;
-  font-size: 19pt;
-  font-weight: 300;
-  line-height: 1.75em;
-  color: #888;
+	background: #fff;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 19pt;
+	font-weight: 300;
+	line-height: 1.75em;
+	color: #888;
 }

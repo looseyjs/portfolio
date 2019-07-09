@@ -1,0 +1,26 @@
+@import 'module.css';
+@import 'container.css';
+@import 'row.css';
+@import 'sectionArticle.css';
+@import 'image.css';
+@import 'list.css';
+@import 'icon.css';
+@import 'form.css';
+@import 'table.css';
+@import 'button.css';
+
+.item {
+  box-shadow: 0 0.05em 0.15em 0 rgba(0, 0, 0, 0.05);
+  margin-bottom: 40px;
+}
+
+  .item header {
+    background: #fff;
+    margin: 0;
+    padding: 1em 0 1em 0;
+    font-size: 0.8em;
+  }
+
+    .item header h3 {
+      font-size: 1em;
+    }
