@@ -299,7 +299,7 @@ button,
   -webkit-justify-content: space-between;
   -ms-justify-content: space-between;
   justify-content: space-between;
-  background: #222629 url("images/overlay.png");
+  background: #222629;
   box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.1);
   color: #fff;
   height: 100%;
@@ -499,20 +499,19 @@ button,
     }
 
     #main > section.one {
-      background-color: #81918E;
-      background-image: url("../../images/bb8.jpeg");
+      background-color: #55225D;
     }
 
     #main > section.two {
-      background-color: #f5fafa;
+      background-color: #95CBBC;
     }
 
     #main > section.three {
-      background-color: #ecf1f1;
+      background-color: #FDFEB1;
     }
 
     #main > section.four {
-      background-color: #e8edec;
+      background-color: #F68CB4;
     }
 
 /* Wide */
